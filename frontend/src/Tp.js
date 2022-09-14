@@ -1,11 +1,11 @@
-import fst from './fst.png';
-import logo from './redc.png';
-import thrd from './thrd.png';
-import bc from './bc.png';
-import clk from './clk.png';
-import dd from './dd.png';
-import plac from './plac.png';
-import './Tp.css';
+import fst from './Images/fst.png';
+import logo from './Images/redc.png';
+import thrd from './Images/thrd.png';
+import bc from './Images/bc.png';
+import clk from './Images/clk.png';
+import dd from './Images/dd.png';
+import plac from './Images/plac.png';
+import './style/Tp.css';
 
 function Tp() {
   return (

@@ -3,7 +3,7 @@ import tf from "./Images/tf.png"
 import bb from "./Images/bb.png"
 import tfs from "./Images/tfs.png"
 
-import './Orderlist.css';
+import './style/Orderlist.css'
 
 function Orderlist() {
   return (
