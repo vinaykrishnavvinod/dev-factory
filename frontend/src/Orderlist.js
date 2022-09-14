@@ -1,7 +1,7 @@
-import truck from "./truck.png"
+import truck from "./Images/truck.png"
 import tf from "./Images/tf.png"
 import bb from "./Images/bb.png"
-import tfs from "./tfs.png"
+import tfs from "./Images/tfs.png"
 
 import './Orderlist.css';
 
