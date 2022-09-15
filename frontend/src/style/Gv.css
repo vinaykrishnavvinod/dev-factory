@@ -23,3 +23,23 @@
 .gv-r1-mooncolor{
     padding-left: 105px;
 }
+
+
+.gv-outer-cover{
+    display: flex;
+    flex-direction: row;
+    /* background-color: blue; */
+    /* width: 22%; */
+    padding-left: 143px;
+}
+
+.gv-r1-cover{
+    padding-left: 11px;
+}
+
+.gv-row-2{
+    /* background-color: blanchedalmond; */
+    display: flex;
+    flex-direction: row;
+    padding-left: 143px;
+}
