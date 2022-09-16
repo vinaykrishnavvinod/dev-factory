@@ -6,7 +6,10 @@
 
 .gv-r1-chr-1-pic{
     background-color: rgb(209, 204, 204);
-    width: 249px;
+    width: 259px;
+    padding-bottom: 33px;
+    /* width: 113px 173%; */
+    /* padding-bottom: 22px; */
 }
 
 .gv-r1-blue-dlor{
@@ -31,6 +34,7 @@
     /* background-color: blue; */
     /* width: 22%; */
     padding-left: 143px;
+
 }
 
 .gv-r1-cover{

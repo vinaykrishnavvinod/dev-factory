@@ -1,16 +1,5 @@
 import cha from "./Images/cha.png";
 import clr from "./Images/clr.png";
-import soff from "./Images/soff.png";
-import kas from "./Images/kas.png";
-import beg from "./Images/beg.png";
-import watc from "./Images/watc.png";
-import anlg from "./Images/anlg.png";
-
-import rhed from "./Images/rhed.png";
-import pilo from "./Images/pilo.png";
-import rw from "./Images/rw.png";
-import camm from "./Images/camm.png";
-import vh from "./Images/vh.png";
 
 import "./style/Gv.css";
 
@@ -42,7 +31,7 @@ function Gv() {
       <div className="gv-r1-cover">
         <div className="gv-r1-chair-1">
           <div className="gv-r1-chr-1-pic">
-            <img src={soff} />
+            <img src={cha} />
           </div>
 
           <label className="gv-r1-vel-ethit-eusmod">Vel elit euismod</label>
@@ -62,7 +51,7 @@ function Gv() {
       <div className="gv-r1-cover">
         <div className="gv-r1-chair-1">
           <div className="gv-r1-chr-1-pic">
-            <img src={kas} />
+            <img src={cha} />
           </div>
 
           <label className="gv-r1-vel-ethit-eusmod">Vel elit euismod</label>
@@ -82,7 +71,7 @@ function Gv() {
       <div className="gv-r1-cover">
         <div className="gv-r1-chair-1">
           <div className="gv-r1-chr-1-pic">
-            <img src={beg} />
+            <img src={cha} />
           </div>
 
           <label className="gv-r1-vel-ethit-eusmod">Vel elit euismod</label>
@@ -108,7 +97,7 @@ function Gv() {
     <div className="gv-r1-cover">
         <div className="gv-r1-chair-1">
           <div className="gv-r1-chr-1-pic">
-            <img src={watc} />
+            <img src={cha} />
           </div>
 
           <label className="gv-r1-vel-ethit-eusmod">Vel elit euismod</label>
@@ -127,7 +116,7 @@ function Gv() {
       <div className="gv-r1-cover">
         <div className="gv-r1-chair-1">
           <div className="gv-r1-chr-1-pic">
-            <img src={anlg} />
+            <img src={cha} />
           </div>
 
           <label className="gv-r1-vel-ethit-eusmod">Vel elit euismod</label>
@@ -146,7 +135,7 @@ function Gv() {
       <div className="gv-r1-cover">
         <div className="gv-r1-chair-1">
           <div className="gv-r1-chr-1-pic">
-            <img src={rhed} />
+            <img src={cha} />
           </div>
 
           <label className="gv-r1-vel-ethit-eusmod">Vel elit euismod</label>
@@ -165,7 +154,7 @@ function Gv() {
       <div className="gv-r1-cover">
         <div className="gv-r1-chair-1">
           <div className="gv-r1-chr-1-pic">
-            <img src={pilo} />
+            <img src={cha} />
           </div>
 
           <label className="gv-r1-vel-ethit-eusmod">Vel elit euismod</label>
@@ -196,7 +185,7 @@ function Gv() {
 <div className="gv-r1-cover">
     <div className="gv-r1-chair-1">
       <div className="gv-r1-chr-1-pic">
-        <img src={rw} />
+        <img src={cha} />
       </div>
 
       <label className="gv-r1-vel-ethit-eusmod">Vel elit euismod</label>
@@ -215,7 +204,7 @@ function Gv() {
   <div className="gv-r1-cover">
     <div className="gv-r1-chair-1">
       <div className="gv-r1-chr-1-pic">
-        <img src={camm} />
+        <img src={cha} />
       </div>
 
       <label className="gv-r1-vel-ethit-eusmod">Vel elit euismod</label>
@@ -234,7 +223,7 @@ function Gv() {
   <div className="gv-r1-cover">
     <div className="gv-r1-chair-1">
       <div className="gv-r1-chr-1-pic">
-        <img src={vh} />
+        <img src={cha} />
       </div>
 
       <label className="gv-r1-vel-ethit-eusmod">Vel elit euismod</label>
@@ -253,7 +242,7 @@ function Gv() {
   <div className="gv-r1-cover">
     <div className="gv-r1-chair-1">
       <div className="gv-r1-chr-1-pic">
-        <img src={beg} />
+        <img src={cha} />
       </div>
 
       <label className="gv-r1-vel-ethit-eusmod">Vel elit euismod</label>
@@ -274,16 +263,6 @@ function Gv() {
 
 
 
-
-
-
-  <div className="gv-row-2">
-
-
-  
- 
-
-  </div>
 
 
 
