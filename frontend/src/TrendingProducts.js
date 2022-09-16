@@ -1,13 +1,13 @@
-import fst from "./Images/fst.png";
-import logo from "./Images/redc.png";
-import thrd from "./Images/thrd.png";
-import bc from "./Images/bc.png";
-import clk from "./Images/clk.png";
-import dd from "./Images/dd.png";
-import plac from "./Images/plac.png";
-import "./style/Tp.css";
+import fst from "./Images/TrendingProducts-fst.png";
+import logo from "./Images/TrendingProducts-redc.png";
+import thrd from "./Images/TrendingProducts-thrd.png";
+import bc from "./Images/TrendingProducts-bc.png";
+import clk from "./Images/TrendingProducts-clk.png";
+import dd from "./Images/TrendingProducts-dd.png";
+import plac from "./Images/TrendingProducts-plac.png";
+import "./style/TrendingProducts.css";
 
-function Tp() {
+function TrendingProducts() {
   return (
     <div className="trending-product-outer-cover">
       <div className="tp-r1">
@@ -140,4 +140,4 @@ function Tp() {
   );
 }
 
-export default Tp;
+export default TrendingProducts;

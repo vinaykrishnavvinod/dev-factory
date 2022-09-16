@@ -1,13 +1,15 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import Gv from './Gv';
-import Orderlist from './Orderlist';
+import Gridview from './Gridview';
+import Gv from './Gridview';
+import Offerlist from './Offerlist';
+import TrendingProducts from './TrendingProducts';
 
-import Tp from './Tp';
+import Tp from './TrendingProducts';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <Gv/>
+    <Offerlist/>
   </React.StrictMode>
 );
 

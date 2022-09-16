@@ -1,9 +1,9 @@
-import cha from "./Images/cha.png";
-import clr from "./Images/clr.png";
+import cha from "./Images/Gridview-cha.png";
+import clr from "./Images/Gridview-clr.png";
 
-import "./style/Gv.css";
+import "./style/Gridview.css";
 
-function Gv() {
+function Gridview() {
   return (
 
     <div className="gv-outer-row-2-main">
@@ -276,4 +276,4 @@ function Gv() {
   );
 }
 
-export default Gv;
+export default Gridview;
