@@ -1,4 +1,4 @@
-import './Adminproductcostsummary.css';
+import './style/Adminproductcostsummary.css';
 import { MdOutlineMoreVert } from "react-icons/md";
 
 function Adminproductcostsummary() {
