@@ -11,7 +11,8 @@
     /* justify-content: space-between; */
     /* display: flex; */
     padding-left: 22px;
-    color: blue;
+    color: rgb(7, 34, 190);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 
@@ -25,35 +26,39 @@
 }
 
 .adminprodct-smmrry-3456{
-    color: blue;
+    color: rgb(9, 9, 59);
     text-align: center;
     padding-top: 11px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 33px;
 }
 
 
 .adminprodct-smmrry-item-on-sale{
-    color: blue;
+    color: grey;
     text-align: center;
     padding-top: 2px; 
     font-size: 0.7rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .adminprodct-smmrry-432{
-    color: blue;
+    color: rgb(27, 27, 99);
     text-align: center;
     padding-top: 11px;
     font-size: 33px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 
 }
 
 
 .adminprodct-smmrry-sales-this-month{
-    color: blue;
+    color: grey;
     text-align: center;
     padding-top: 1px; 
     padding-bottom: 22px;
     font-size: 0.7rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 
