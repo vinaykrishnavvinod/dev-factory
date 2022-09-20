@@ -1,8 +1,8 @@
 // import Appss from './Appss';
-import './Appss.css';
+import './Adminproductfeature.css';
 import { MdOutlineMoreVert } from "react-icons/md";
 
-function Appss() {
+function Adminproductfeature() {
   return (
     <div className="Appss_r1">
       
@@ -173,4 +173,4 @@ function Appss() {
   );
 }
 
-export default Appss;
+export default Adminproductfeature;

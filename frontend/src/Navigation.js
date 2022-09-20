@@ -6,7 +6,7 @@ import Offerlist from "./Offerlist";
 import TrendingProducts from "./TrendingProducts";
 import Orderlist from "./Orderlist";
 import Adminproductcostsummary from "./Adminproductcostsummary";
-import Appss from "./Appss";
+import Adminproductfeature from "./Adminproductfeature";
 // import your route components too
 
 export default function Navigation() {
@@ -27,7 +27,7 @@ export default function Navigation() {
           <Route path="/Offerlist" element={<Offerlist />}></Route>  
 
           
-          <Route path="/Appss" element={<Appss />}></Route>  
+          <Route path="/Adminproductfeature" element={<Adminproductfeature />}></Route>  
 
           {/* <Route path="/Adminproductfeature" element={<Adminproductfeature />}></Route> */}
 
