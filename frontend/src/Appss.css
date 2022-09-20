@@ -1,0 +1,73 @@
+.Adminproductfeature-r1-screen{
+    background-color: azure;
+    padding-top: 11px;
+    padding-bottom: 11px;
+    width: 90%;
+    padding-left: 82px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(6, 6, 114);
+    
+}
+
+.adminproductfeaturedottt{
+    padding-left: 1133px;
+}
+
+.Adminproductfeature-r1-screen-lbl{
+    display: flex;
+    flex-direction: row;
+}
+
+.Adminproductfeature-r2-4lbl-cover{
+    display: flex;
+    flex-direction: row;
+    padding-top: 33px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(6, 6, 114);
+}
+
+.Adminproductfeature-r2-col-1{
+    padding-left: 82px;
+    padding-right: 155px;
+    /* background-color: antiquewhite; */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(6, 6, 114);
+    padding-top: 22px;
+}
+
+.Adminproductfeature-r2-col-2{
+    padding-left: 82px;
+    padding-right: 155px;
+    /* background-color: rgb(235, 230, 221); */
+    padding-top: 22px;
+    padding-bottom: 22px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(6, 6, 114);
+}
+
+
+.Adminproductfeature-r2-col-3{
+    padding-left: 82px;
+    padding-right: 155px;
+    /* width: 22%; */
+    /* background-color: aqua; */
+    padding-top: 22px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(6, 6, 114);
+}
+
+
+.Adminproductfeature-r2-col-4{
+    padding-left: 82px;
+    padding-right: 155px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(6, 6, 114);
+}
+
+.adminproductfeature-last-row{
+    text-align: center;
+    padding-top: 44px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: rgb(6, 6, 114);
+}
+
