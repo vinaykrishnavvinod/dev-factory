@@ -1,5 +1,5 @@
 
-import "./style/Orderlist.css";
+import "./Orderlist.css";
 // import tf from "./Images/Offerlist-tf.png";
 import fst from "./Images/TrendingProducts-fst.png";
 

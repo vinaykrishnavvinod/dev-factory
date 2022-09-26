@@ -5,7 +5,7 @@ import bc from "./Images/TrendingProducts-bc.png";
 import clk from "./Images/TrendingProducts-clk.png";
 import dd from "./Images/TrendingProducts-dd.png";
 import plac from "./Images/TrendingProducts-plac.png";
-import "./style/TrendingProducts.css";
+import "./TrendingProducts.css";
 
 function TrendingProducts() {
   return (

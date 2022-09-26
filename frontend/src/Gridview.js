@@ -1,7 +1,7 @@
 import cha from "./Images/Gridview-cha.png";
 import clr from "./Images/Gridview-clr.png";
 
-import "./style/Gridview.css";
+import "./Gridview.css";
 
 function Gridview() {
   return (

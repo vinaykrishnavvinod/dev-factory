@@ -3,7 +3,7 @@ import tf from "./Images/Offerlist-tf.png";
 import bb from "./Images/Offerlist-bb.png";
 import tfs from "./Images/Offerlist-tfs.png";
 
-import "./style/Offerlist.css";
+import "./Offerlist.css";
 
 function Offerlist() {
   return (
