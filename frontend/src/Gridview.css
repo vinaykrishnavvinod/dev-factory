@@ -2,7 +2,8 @@
   padding-left: 22px;
   color: blue;
   font-size: 22px;
-  /* font-size: 8rem; */
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
   padding-top: 11px;
   /* background-color: black; */
 }
@@ -19,11 +20,13 @@
   color: blue;
   padding-left: 55px;
   padding-right: 11px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .gv-r1-pink-dollr {
   color: brown;
   text-decoration: line-through;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .gv-r1-mooncolor {
