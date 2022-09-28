@@ -8,6 +8,11 @@
  
 }
 
+.gv-outer-row-2-main{
+    padding-left: 22px;
+    /* background-color: black; */
+}
+
 .orderlist-row-1{
     width: 22%;
     background-color: rgb(230, 231, 231);
@@ -70,4 +75,5 @@ color: blue;
 
 .orderlist-26b-rdehd{
     color: blue;
+    
 }
