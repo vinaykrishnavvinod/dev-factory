@@ -4,7 +4,7 @@ import { MdOutlineMoreVert } from "react-icons/md";
 
 function Adminproductfeature() {
   return (
-    <div className="Appss_r1">
+    <div className="Appssz_r1">
       
 
 

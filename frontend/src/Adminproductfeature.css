@@ -6,6 +6,8 @@
     padding-left: 82px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: rgb(6, 6, 114);
+    font-size: 0.9rem;
+    font-weight: 500;
     
 }
 
@@ -16,6 +18,12 @@
 .Adminproductfeature-r1-screen-lbl{
     display: flex;
     flex-direction: row;
+    background-color: rgb(216, 216, 216);
+    padding-left: 22px;
+    padding-right: 22px;
+    padding-top: 11px;
+    padding-bottom: 11px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
 .Adminproductfeature-r2-4lbl-cover{
@@ -33,6 +41,8 @@
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: rgb(6, 6, 114);
     padding-top: 22px;
+    font-size: 0.9rem;
+    font-weight: 500;
 }
 
 .Adminproductfeature-r2-col-2{
@@ -43,6 +53,8 @@
     padding-bottom: 22px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: rgb(6, 6, 114);
+    font-size: 0.9rem;
+    font-weight: 500;
 }
 
 
@@ -54,6 +66,9 @@
     padding-top: 22px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: rgb(6, 6, 114);
+    font-size: 0.9rem;
+    font-weight: 500;
+    
 }
 
 
@@ -62,12 +77,16 @@
     padding-right: 155px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: rgb(6, 6, 114);
+    font-size: 0.9rem;
+    font-weight: 500;
 }
 
 .adminproductfeature-last-row{
     text-align: center;
     padding-top: 44px;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 0.9rem;
+    font-weight: 500;
     color: rgb(6, 6, 114);
 }
 
