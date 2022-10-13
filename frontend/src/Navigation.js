@@ -1,4 +1,4 @@
-import { render } from "react-dom";
+// import { render } from "react-dom";
 import { HashRouter, Routes, Route } from "react-router-dom";
 // import profile from "./profile";
 import Gridview from "./Gridview";
@@ -8,6 +8,8 @@ import Orderlist from "./Orderlist";
 import Adminproductcostsummary from "./Adminproductcostsummary";
 import Adminproductfeature from "./Adminproductfeature";
 import Admintobar from "./Admintobar";
+import Coin from "./Coin";
+import Login from "./Login";
 // import your route components too
 
 export default function Navigation() {
@@ -27,7 +29,10 @@ export default function Navigation() {
 
           <Route path="/Offerlist" element={<Offerlist />}></Route>  
 
+          <Route path="/Coin" element={<Coin />}></Route>  
+
           <Route path="/Admintobar" element={<Admintobar />}></Route>  
+          <Route path="/Login" element={<Login />}></Route> 
 
           
           <Route path="/Adminproductfeature" element={<Adminproductfeature />}></Route>  
